@@ -1,2 +1,2 @@
-# weather-app
-This is a whether app I created to give updates on the current temperature of your locality
+# GPA-calculator
+This is a calculator I created to help Nigerian University students calculate their grade point average after each semester/session.
